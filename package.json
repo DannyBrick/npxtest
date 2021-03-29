@@ -1,0 +1,11 @@
+{
+  "name": "npxtest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "awesome": "index.js"
+  }
+}
